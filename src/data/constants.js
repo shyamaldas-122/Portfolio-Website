@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/shyamaldas-122",
   resume:
-    "https://drive.google.com/file/d/1dNNFMexgpnaBgcWjwDm3zrvaN_11o4Cq/view?usp=drive_link",
+    "https://drive.google.com/file/d/1PKloMChDxA5LY1MVL6UPqOANxuJL7MCR/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/shyamal122/",
   twitter: "https://twitter.com/shyamal64118629",
   insta: "https://www.instagram.com/ig_shyamal_/",
@@ -30,11 +30,11 @@ export const skills = [
         image:
           "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
       },
-      // {
-      //   name: "Next Js",
-      //   image:
-      //     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
-      // },
+      {
+        name: "Next Js",
+        image:
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+      },
       {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
@@ -83,11 +83,11 @@ export const skills = [
         image:
           "https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png",
       },
-      // {
-      //   name: "Python",
-      //   image:
-      //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-      // },
+      {
+        name: "Socket.io",
+        image:
+          "https://github.com/shyamaldas-122/images/assets/83920184/9118b2d8-8e68-4391-902c-6338580090d2",
+      },
       {
         name: "MySQL",
         image:
@@ -275,6 +275,45 @@ export const projects = [
     category: "web app",
     github: "https://github.com/shyamaldas-122/Blog-Website",
     webapp: "https://blog-website-seven-mu.vercel.app/",
+  },
+  {
+    id: 11,
+    title: "Chatlify",
+    date: "January 2024",
+    description:
+      "Architected a real-time chat platform everaging Socket.io’s WebSockets for instant message delivery. Established user authentication to enhance security and personalize user experiences within the chat application. Orchestrated MongoDB effectively to manage user data and chat conversations through strategic query design.",
+    image:
+      "https://github.com/shyamaldas-122/images/assets/83920184/5d68b069-329e-4ee6-b722-46db510d62fb",
+    tags: [
+      "React Js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Tailwind CSS",
+      "Socket.io"
+    ],
+    category: "web app",
+    github: "https://github.com/shyamaldas-122/MERN-ChatApp-Frontend_Backend",
+    webapp: "https://endearing-meerkat-3750e1.netlify.app/",
+  },
+  {
+    id: 12,
+    title: "Next Js Fullstack Authentication",
+    date: "January 2024",
+    description:
+      "Architected and implemented a comprehensive authentication system using Next.js, MongoDB, and Mongoose, enriched with advanced features such as email verification and forgot password functionalities. This project ensures a secure and seamless user experience while maintaining the integrity of user data.",
+    image:
+      "https://github.com/shyamaldas-122/images/assets/83920184/15587c9c-1686-4416-93b7-4c693fb90294",
+    tags: [
+      "Next Js",
+      "MongoDB",
+      "Mongoose",
+      "JWT",
+      "Tailwind CSS",
+    ],
+    category: "web app",
+    github: "https://github.com/shyamaldas-122/NextJs-fullstack-authentication",
+    webapp: "https://next-js-fullstack-authentication-navy.vercel.app/",
   },
   {
     id: 2,
